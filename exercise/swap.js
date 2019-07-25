@@ -54,3 +54,15 @@ function fizzBuzz(num){
 
 
 console.log(fizzBuzz(7));
+
+//speed limit =70
+//5 ==> 1 point
+// math.floor(1.3)
+// 12 points licence suspended\
+
+function checkSpeed(speed){
+    if (speed < 70)
+        return 'OK';
+    if (speed >70 && speed%5 ===0   )
+    
+}
