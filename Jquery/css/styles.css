@@ -1,0 +1,7 @@
+#lion-showing{
+  display: none;
+}
+.clickable{
+  cursor: pointer;
+  color: #80088c
+}
